@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **jmikthang5@gmail.com**
 
-- ⚡ Fun fact **Javascript confuse me a lot but in the end that's what make my happy**
+- ⚡ Fun fact **Javascript confuse me a lot but in the end that's what make me happy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
