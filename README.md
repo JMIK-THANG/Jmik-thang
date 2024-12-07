@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/JMIK-THANG?tab=repositories](https://github.com/JMIK-THANG?tab=repositories)
 
-- 💬 Ask me about **HMTL, CSS, JAVASCRIPT, REACT, Node.js**
+- 💬 Ask me about **Why I love Reac so much😁**
 
 - 📫 How to reach me **jmikthang5@gmail.com**
 
